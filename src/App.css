@@ -196,6 +196,7 @@
 .hero__title {
   font-family: "Koulen", "Noto Serif Khmer", sans-serif;
   font-size: clamp(2rem, 5.2vw, 4.25rem);
+
   font-weight: 400;
   margin: 0;
   color: var(--color-text);
